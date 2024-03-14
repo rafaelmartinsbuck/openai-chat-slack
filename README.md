@@ -19,3 +19,10 @@
 - **OpenAI Python Client**: Required for interfacing with the OpenAI API.
 - **Slack Bolt**: Required for building Slack apps and handling interactions with Slack.
 - **Other Libraries**: Additional libraries may be required based on the specific dependencies of the included code.
+
+## Installation Requirements
+
+To run the provided Python code for integrating a ChatBot with Slack using the OpenAI API, you'll need to install the following dependencies. You can install them using `pip` by executing the following command:
+
+```bash
+pip install -r requirements.txt
